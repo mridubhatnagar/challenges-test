@@ -1,0 +1,2 @@
+Step by step tried using the mentioned commands. In order to push 
+PR without much hassle.
